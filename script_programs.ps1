@@ -6,3 +6,6 @@ xcopy \\dcwfs01\ARQUIVOS-GAV\DEPARTAMENTOS\Packages\installers\ C:\Packages /E /
 cd C:\Packages
 .\FortiClientVPN.exe /quiet /norestart
 Start-Process -Wait -FilePath '.\Pacote Kaspersky Endpoint 11.10 - Com agente.exe' -Argument "/silent" -PassThru
+
+slep 5
+if

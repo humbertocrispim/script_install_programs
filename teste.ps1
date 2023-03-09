@@ -10,3 +10,6 @@ Name              : VMware Horizon Client
 Vendor            : VMware, Inc.
 Version           : 8.7.0.31805
 Caption           : VMware Horizon Client
+
+
+#teste
